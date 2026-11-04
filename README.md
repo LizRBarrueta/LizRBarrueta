@@ -33,7 +33,6 @@ Explore my Data Science projects, documentation, and code:
 - **[Notion Portfolio](https://spotted-lint-521.notion.site/Lizbeth-Rodr-guez-Barrueta-Data-Science-Portfolio-357789246f59808aa260eb15cd439e3e)** — Explore my projects, methodologies, and findings.
 - **[GitHub Portfolio](https://github.com/LizRBarrueta/tripleten-data-science-portfolio)** — Explore the code and notebooks behind my projects.
 - **[Interactive Streamlit App](https://car-sales-app-1-f0tm.onrender.com/)** — Explore my used car data analysis application.
-- **Complete Data Science Portfolio:** [Explore all 14 projects on Notion](https://spotted-lint-521.notion.site/Lizbeth-Rodr-guez-Barrueta-Data-Science-Portfolio-357789246f59808aa260eb15cd439e3e)
 
 ### 🤝 Let's Connect
 
