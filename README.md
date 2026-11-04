@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Lizbeth Rodríguez - Data Science" width="100%">
+</p>
+
 # Hi, I'm Lizbeth R. Barrueta 👋
 
 ### Junior Data Scientist | Data Analyst | Operations Analytics
