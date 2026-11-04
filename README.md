@@ -22,12 +22,13 @@ I recently completed the **TripleTen Data Science Bootcamp**, where I developed 
 - **Used Car Analysis — Streamlit:** Developed an interactive web application to explore used car data through visualizations.
 - **Used Car Price Prediction — Rusty Bargain:** Compared regression models to predict used car prices and evaluate model performance.
 
-### 📂 Portfolio
+### 📂 Portfolio & Projects
 
-Explore my projects and code:
+Explore my Data Science projects, documentation, and code:
 
-- [Data Science Portfolio — GitHub](https://github.com/LizRBarrueta/tripleten-data-science-portfolio)
-- [Interactive Streamlit App](https://car-sales-app-1-f0tm.onrender.com/)
+- **[Notion Portfolio](https://spotted-lint-521.notion.site/Lizbeth-Rodr-guez-Barrueta-Data-Science-Portfolio-357789246f59808aa260eb15cd439e3e)** — Explore my projects, methodologies, and findings.
+- **[GitHub Portfolio](https://github.com/LizRBarrueta/tripleten-data-science-portfolio)** — Explore the code and notebooks behind my projects.
+- **[Interactive Streamlit App](https://car-sales-app-1-f0tm.onrender.com/)** — Explore my used car data analysis application.
 
 ### 🤝 Let's Connect
 
