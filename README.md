@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Lizbeth Rodríguez - Data Science" width="100%">
+  <img src="https://github.com/LizRBarrueta/LizRBarrueta/blob/main/banner-github.png?raw=true" alt="Lizbeth Rodríguez - Data Science" width="100%">
 </p>
 
 # Hi, I'm Lizbeth R. Barrueta 👋
