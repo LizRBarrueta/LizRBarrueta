@@ -14,11 +14,17 @@ I recently completed the **TripleTen Data Science Bootcamp**, where I developed 
 
 ### 🛠️ Technical Skills
 
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, Statistical Analysis, Hypothesis Testing
-- **Machine Learning:** Scikit-learn, Regression, Classification, Decision Trees, Random Forest, Gradient Boosting
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
-- **Other Tools:** Git, GitHub, Excel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ### 🚀 Featured Projects
 
